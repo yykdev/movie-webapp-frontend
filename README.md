@@ -4,4 +4,4 @@
 
 ## 설치 라이브러리
 
-> yarn add react-router-dom
+> yarn add react-router-dom apollo-boost react-apollo graphql-tag graphql --save
