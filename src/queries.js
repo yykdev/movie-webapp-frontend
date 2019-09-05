@@ -5,7 +5,7 @@ export const HOME_PAGE = gql`
         movies(limit: 10, rating: 8.5) {
             id
             title
-            genres
+            medium_cover_image
             rating
         }
     }

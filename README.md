@@ -7,3 +7,9 @@
 > yarn add react-router-dom apollo-boost react-apollo graphql-tag graphql --save
 
 > yarn add react-helmet
+
+> npm install styled-components
+
+> npm install react-apollo-hooks
+
+> yarn add prop-types
